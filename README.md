@@ -7,3 +7,7 @@ I'm Gourav Singh, a dedicated professional with a passion for Full Stack Develop
 **About Me:**
 
 In this section, you'll find an introduction to who I am, my background, and the driving forces behind my career. Learn about my educational journey, professional aspirations, and the values that guide me in all that I do.
+
+**Resume/CV:**
+
+Take a closer look at my educational background and professional journey through my detailed resume. It provides an in-depth overview of my qualifications, work experiences, and accomplishments.
