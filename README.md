@@ -1,4 +1,4 @@
-# myportfolio
+# My Portfolio
 **Description:**
 
 Welcome to my digital Portfolio, your gateway to explore my journey, skills, and achievements. 
