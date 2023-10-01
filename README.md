@@ -24,4 +24,8 @@ In my blog section, I share my thoughts, insights, and experiences related to my
 
 I'm always open to new opportunities, collaborations, or simply connecting with like-minded professionals. Reach out to me through the provided contact information, and let's explore how we can work together or share ideas.
 
+## Contributing
+
+We welcome contributions and feedback from the community. If you find any issues or have ideas for improvement, please feel free to create an issue or submit a pull request.
+
 # Below is the link of my portfolio
