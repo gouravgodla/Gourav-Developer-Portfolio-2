@@ -20,7 +20,7 @@ nav a{
   transition: .5s;
 }
 nav a:hover{
-  color: 0sf;
+  color: 0ef;
 }
 nav a span{
   position: absolute;
@@ -32,7 +32,7 @@ nav a span{
   border-bottom: 2px solid #0ef;
   border-radius: 15px; 
   transform: scale(0) translate Y(50px);
-  opacity: 0:
+  opacity: 0;
   transition: .5s;
 }
 nav a:hover span{
