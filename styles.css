@@ -6,7 +6,7 @@
 }
 body{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   min-hight: 100vh;
   background: #000;
 }
