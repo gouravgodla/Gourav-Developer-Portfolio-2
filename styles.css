@@ -11,8 +11,8 @@ body{
   background: #000;
 }
 nav a{
-  position: relative;
-  font-size: 3.1em;
+  position: flex;
+  font-size: 2.1em;
   font-weight: 500;
   color: #FFFFFF;
   text-decoration: none;
